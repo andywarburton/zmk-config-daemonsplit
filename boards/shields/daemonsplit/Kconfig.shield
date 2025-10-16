@@ -1,0 +1,5 @@
+config SHIELD_DAEMONSPLIT_LEFT
+    def_bool $(shields_list_contains,daemonsplit_left)
+
+config SHIELD_DAEMONSPLIT_RIGHT
+    def_bool $(shields_list_contains,daemonsplit_right)
