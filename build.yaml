@@ -9,6 +9,3 @@
 ---
 board: [ "nice_nano_v2" ]
 shield: [ "daemonsplit_left", "daemonsplit_right" ]
-include:
-  - board: nice_nano_v2
-    shield: daemonsplit
